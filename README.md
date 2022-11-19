@@ -1,0 +1,6 @@
+- 👋 Hi, I am @maria-sanchez-marques
+- 👀 I am interested in working as a web developer. Both frontend and backend.
+- 🌱 I am currently improving my knowledge in React JS.
+- 📫 How to reach me: 
+    --> Email: mariamsm94@hotmail.com 
+    --> Linkedin: www.linkedin.com/in/maria-sanchez-marques
